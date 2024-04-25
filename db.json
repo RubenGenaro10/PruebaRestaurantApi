@@ -1,0 +1,165 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Aji Fusion",
+        "email":"ajifusion202@gmail.com",
+        "phone": "980284781",
+        "address": "Calle Grau Mz J, Pachacamac 123",
+        "schedule": "12:00 am - 6:00 pm",
+        "urlToImage": "https://marketplace.canva.com/EAFVq1ge0ZU/1/0/1600w/canva-logo-restaurante-circular-sencillo-negro-blanco-QEgdJHSl6GE.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Brasas Restaurant",
+        "email":"brasas@gmail.com",
+        "phone": "980284723",
+        "address": "Calle Bolognesi Mz J, Pachacamac 321",
+        "schedule": "12:00 am - 6:00 pm",
+        "urlToImage": "https://marketplace.canva.com/EAFVq1ge0ZU/1/0/1600w/canva-logo-restaurante-circular-sencillo-negro-blanco-QEgdJHSl6GE.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Chifa Restaurant",
+        "email":"chifon@gmail.com",
+        "phone": "980284314",
+        "address": "Calle Shin Wu Mz J, Pachacamac 123",
+        "schedule": "12:00 am - 6:00 pm",
+        "urlToImage": "https://marketplace.canva.com/EAFVq1ge0ZU/1/0/1600w/canva-logo-restaurante-circular-sencillo-negro-blanco-QEgdJHSl6GE.jpg"
+      }
+    ],
+    "menus": [
+      {
+        "id": 1,
+        "entradas": [
+          {
+            "id": 1,
+            "name": "Ensalada cesar",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Ceviche",
+            "category": "Saludable",
+            "stock": 70
+          }
+        ],
+        "segundo": [
+          {
+            "id": 1,
+            "name": "Lomo saltado",
+            "category": "Normal",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Lomo a lo pobre",
+            "category": "Normal",
+            "stock": 70
+          }
+        ],
+        "bebidas": [
+          {
+            "id": 1,
+            "name": "Limonada",
+            "category": "Saludable",
+            "stock": 70
+          }
+        ],
+        "restaurantId": 1
+      },
+      {
+        "id": 2,
+        "entradas": [
+          {
+            "id": 1,
+            "name": "Sopa de verduras",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Empanadas de pollo",
+            "category": "Normal",
+            "stock": 70
+          }
+        ],
+        "segundo": [
+          {
+            "id": 1,
+            "name": "Pescado a la plancha",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Pollo al horno",
+            "category": "Normal",
+            "stock": 70
+          }
+        ],
+        "bebidas": [
+          {
+            "id": 1,
+            "name": "Jugo de naranja",
+            "category": "Normal",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Cerveza artesanal",
+            "category": "Saludable",
+            "stock": 70
+          }
+        ],
+        "restaurantId": 2
+      },
+      {
+        "id": 3,
+        "entradas": [
+          {
+            "id": 1,
+            "name": "Bruschetta",
+            "category": "Normal",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Calamares fritos",
+            "category": "Normal",
+            "stock": 70
+          }
+        ],
+        "segundo": [
+          {
+            "id": 1,
+            "name": "Risotto de champiñones",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Filete de ternera",
+            "category": "Normal",
+            "stock": 70
+          }
+        ],
+        "bebidas": [
+          {
+            "id": 1,
+            "name": "Vino tinto",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Agua mineral",
+            "category": "Saludable",
+            "stock": 70
+          }
+        ],
+        "restaurantId": 3
+      }
+    ]
+  }
