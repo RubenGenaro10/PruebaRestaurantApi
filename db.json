@@ -160,6 +160,98 @@
           }
         ],
         "restaurantId": 3
-      }
+      },
+      {
+        "id": 4,
+        "entradas": [
+          {
+            "id": 1,
+            "name": "Ensalada César",
+            "category": "Saludable",
+            "stock": 80
+          },
+          {
+            "id": 2,
+            "name": "Nachos con queso",
+            "category": "Normal",
+            "stock": 60
+          }
+        ],
+        "segundo": [
+          {
+            "id": 1,
+            "name": "Pollo a la parrilla",
+            "category": "Saludable",
+            "stock": 75
+          },
+          {
+            "id": 2,
+            "name": "Hamburguesa de ternera",
+            "category": "Normal",
+            "stock": 65
+          }
+        ],
+        "bebidas": [
+          {
+            "id": 1,
+            "name": "Jugo de naranja",
+            "category": "Saludable",
+            "stock": 85
+          },
+          {
+            "id": 2,
+            "name": "Cerveza",
+            "category": "Normal",
+            "stock": 90
+          }
+        ],
+        "restaurantId": 4
+    },
+    {
+        "id": 5,
+        "entradas": [
+          {
+            "id": 1,
+            "name": "Gazpacho",
+            "category": "Saludable",
+            "stock": 70
+          },
+          {
+            "id": 2,
+            "name": "Patatas bravas",
+            "category": "Normal",
+            "stock": 80
+          }
+        ],
+        "segundo": [
+          {
+            "id": 1,
+            "name": "Pescado al horno",
+            "category": "Saludable",
+            "stock": 75
+          },
+          {
+            "id": 2,
+            "name": "Paella",
+            "category": "Normal",
+            "stock": 85
+          }
+        ],
+        "bebidas": [
+          {
+            "id": 1,
+            "name": "Agua con limón",
+            "category": "Saludable",
+            "stock": 90
+          },
+          {
+            "id": 2,
+            "name": "Sangría",
+            "category": "Normal",
+            "stock": 80
+          }
+        ],
+        "restaurantId": 5
+    }
     ]
   }
