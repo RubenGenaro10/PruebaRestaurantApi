@@ -16,7 +16,7 @@
         "phone": "980284723",
         "address": "Calle Bolognesi Mz J, Pachacamac 321",
         "schedule": "12:00 am - 6:00 pm",
-        "urlToImage": "https://marketplace.canva.com/EAFVq1ge0ZU/1/0/1600w/canva-logo-restaurante-circular-sencillo-negro-blanco-QEgdJHSl6GE.jpg"
+        "urlToImage": "https://marketplace.canva.com/EADiIIVxcT4/2/0/1600w/canva-negro-la-corteza-restaurante-logo-o6NfZ-Gk69A.jpg"
       },
       {
         "id": 3,
@@ -24,8 +24,26 @@
         "email":"chifon@gmail.com",
         "phone": "980284314",
         "address": "Calle Shin Wu Mz J, Pachacamac 123",
-        "schedule": "12:00 am - 6:00 pm",
-        "urlToImage": "https://marketplace.canva.com/EAFVq1ge0ZU/1/0/1600w/canva-logo-restaurante-circular-sencillo-negro-blanco-QEgdJHSl6GE.jpg"
+        "schedule": "8:00 am - 9:00 pm",
+        "urlToImage": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/barbeque-restaurant-logo-editable-design-template-6ce966710ff61d84004b014bb37fa2bd_screen.jpg?ts=1618580434"
+      },
+      {
+        "id": 4,
+        "name": "Entre Panes",
+        "email":"entrepanes@gmail.com",
+        "phone": "980245614",
+        "address": "Calle pequeño, Miraflores",
+        "schedule": "8:00 am - 6:00 pm",
+        "urlToImage": "https://marketplace.canva.com/EAFDsfbeyMk/1/0/1600w/canva-logo-moderno-y-divertido-para-restaurante-gTxS1bjMrSM.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Tia Veneno",
+        "email":"tiaveneno@gmail.com",
+        "phone": "940245614",
+        "address": "San juan de lurigancho",
+        "schedule": "8:00 am - 6:00 pm",
+        "urlToImage": "https://pbs.twimg.com/profile_images/793844362698428416/_VXIiSQT_400x400.jpg"
       }
     ],
     "menus": [
